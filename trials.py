@@ -49,8 +49,8 @@ def get_range(start, stop):
 
     return result
 
-print(get_range(0, 5))
-print(get_range(1, 3))
+# print(get_range(0, 5))
+# print(get_range(1, 3))
 
 def censor_vowels(word):
     pass  # TODO: replace this line with your code
